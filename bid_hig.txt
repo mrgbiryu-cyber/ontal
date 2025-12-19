@@ -1,0 +1,577 @@
+---------------------12월 17일-----------------------------------
+[05:50:45.369] KRW-GRS  x
+[05:50:01.196][62] - BID target : 1.4045583677857208E8 / 0.8401624188610938 / KRW-GRS
+[05:50:01.291][99] - PASS 1 prevAccTradePrice12Avg  KRW-GRS / 6.811306538548927E8
+[05:50:01.291][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-GRS / 0.6811306538548928
+[05:50:01.292][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-GRS / 3.4056532692744635E7
+[05:50:01.292][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-GRS / 1.4045583677857208E8
+[05:50:01.293][128] - wideTrendAvg : 1.0467260012714559 / KRW-GRS
+[05:50:01.294][159] - wideTrendAvg2 : 1.0533568904593638 / KRW-GRS
+[05:50:01.296][182] - BID crossAvg : 1.0218978102189782 / KRW-GRS
+[05:50:01.299][211] - trendAvg : 0.9939393939393939 / KRW-GRS.
+[05:50:01.302][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.6845616390567997 / KRW-GRS
+[05:50:01.303][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : -0.28316263200768177 / KRW-GRS
+
+[07:45:24.976] KRW-GRS x
+[07:45:00.765][62] - BID target : 1.0607580983411407E8 / 0.8325750023531765 / KRW-GRS
+[07:45:00.851][99] - PASS 1 prevAccTradePrice12Avg  KRW-GRS / 1.8088241003646815E8
+[07:45:00.851][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-GRS / 0.18088241003646816
+[07:45:00.851][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-GRS / 9044120.501823409
+[07:45:00.851][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-GRS / 1.0607580983411407E8
+[07:45:00.852][159] - wideTrendAvg2 : 1.067465450336987 / KRW-GRS
+[07:45:00.851][128] - wideTrendAvg : 1.0176034589252625 / KRW-GRS
+[07:45:00.853][182] - BID crossAvg : 1.0156130414817084 / KRW-GRS
+[07:45:00.854][211] - trendAvg : 1.0045317220543806 / KRW-GRS
+[07:45:00.854][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:277] - BID_VAL_22 fastRate : -0.7314370359201072 / KRW-GRS
+[07:45:00.854][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:288] - BID upRate : 1.852207894641661 / KRW-GRS
+
+[08:43:17.425] KRW-AERGO  oo
+[08:43:00.441][62] - BID target : 8.508447781933784E7 / 0.7271389234200698 / KRW-AERGO
+[08:43:00.518][99] - PASS 1 prevAccTradePrice12Avg  KRW-AERGO / 1.0810573992497231E8
+[08:43:00.519][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-AERGO / 0.10810573992497231
+[08:43:00.519][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-AERGO / 5405286.996248616
+[08:43:00.519][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-AERGO / 8.508447781933784E7
+[08:43:00.519][128] - wideTrendAvg : 1.024324005195419 / KRW-AERGO
+[08:43:00.520][159] - wideTrendAvg2 : 1.0106735003607596 / KRW-AERGO
+[08:43:00.521][182] - BID crossAvg : 1.02863975734951 / KRW-AERGO
+[08:43:00.522][211] - trendAvg : 1.0085421412300686 / KRW-AERGO
+[08:43:00.523][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:258] - BID_VAL_19 fastRate : -0.8118920879944215 / KRW-AERGO
+[08:43:00.523][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:269] - BID upRate : 1.4460142468923514 / KRW-AERGO
+
+
+
+[09:12:31.496] KRW-AERGO o
+[09:12:01.742][62] - BID target : 1.066908481736393E8 / 0.807093736233341 / KRW-AERGO
+[09:12:01.814][99] - PASS 1 prevAccTradePrice12Avg  KRW-AERGO / 6.20740107180112E8
+[09:12:01.815][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-AERGO / 0.6207401071801121
+[09:12:01.815][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-AERGO / 3.10370053590056E7
+[09:12:01.815][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-AERGO / 1.066908481736393E8
+[09:12:01.816][128] - wideTrendAvg : 1.0582132564841495 / KRW-AERGO
+[09:12:01.817][159] - wideTrendAvg2 : 1.031553518952035 / KRW-AERGO
+[09:12:01.817][182] - BID crossAvg : 1.024362923550826 / KRW-AERGO
+[09:12:01.818][211] - trendAvg : 1.0087863811092805 / KRW-AERGO
+[09:12:01.819][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:258] - BID_VAL_19 fastRate : -0.9436750362023607 / KRW-AERGO
+[09:12:01.819][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:269] - BID upRate : 0.8074449428545983 / KRW-AERGO
+
+[09:58:43.890] KRW-AQT  x
+[09:58:00.316][99] - PASS 1 prevAccTradePrice12Avg  KRW-AQT / 1.450463772684717E8
+[09:58:00.316][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-AQT / 0.1450463772684717
+[09:58:00.316][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-AQT / 7252318.863423585
+[09:58:00.316][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-AQT / 4.7044735343559265E7
+[09:58:00.317][128] - wideTrendAvg : 1.0007898002933544 / KRW-AQT
+[09:58:00.317][159] - wideTrendAvg2 : 1.0949441355032905 / KRW-AQT
+[09:58:00.317][182] - BID crossAvg : 1.0049061072576553 / KRW-AQT
+[09:58:00.318][211] - trendAvg : 0.9944040290990487 / KRW-AQT
+[09:58:00.318][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.607509841008396 / KRW-AQT
+[09:58:00.318][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : -0.12514812316940765 / KRW-AQT
+
+[10:20:01.510] KRW-AQT o
+[10:19:02.449][62] - BID target : 7.252740736759567E7 / 0.8053774518939752 / KRW-AQT
+[10:19:02.518][99] - PASS 1 prevAccTradePrice12Avg  KRW-AQT / 1.3677696463379475E8
+[10:19:02.518][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-AQT / 0.13677696463379477
+[10:19:02.518][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-AQT / 6838848.231689738
+[10:19:02.518][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-AQT / 7.252740736759567E7
+[10:19:02.519][128] - wideTrendAvg : 1.0062174994347728 / KRW-AQT
+[10:19:02.519][159] - wideTrendAvg2 : 1.1050352749407841 / KRW-AQT
+[10:19:02.519][182] - BID crossAvg : 1.0072124866174565 / KRW-AQT
+[10:19:02.520][211] - trendAvg : 1.0072992700729928 / KRW-AQT
+[10:19:02.520][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : 0.28680831135758533 / KRW-AQT
+[10:19:02.520][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:232] - BID bidVal : -0.7,999999999.3 / KRW-AQT
+
+
+
+[10:35:36.600] KRW-AQT o
+[10:35:00.681][99] - PASS 1 prevAccTradePrice12Avg  KRW-AQT / 2.015200552676526E8
+[10:35:00.682][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-AQT / 0.20152005526765263
+[10:35:00.682][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-AQT / 1.007600276338263E7
+[10:35:00.682][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-AQT / 1.729951417446518E8
+[10:35:00.682][128] - wideTrendAvg : 1.0173169908917128 / KRW-AQT
+[10:35:00.683][159] - wideTrendAvg2 : 1.087592890138582 / KRW-AQT
+[10:35:00.684][182] - BID crossAvg : 1.0278706800445931 / KRW-AQT
+[10:35:00.684][211] - trendAvg : 1.009809264305177 / KRW-AQT
+[10:35:00.684][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.37117705246117133 / KRW-AQT
+[10:35:00.685][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : 0.764645134310592 / KRW-AQT
+
+[10:54:45.932] KRW-AQT x
+[10:54:00.816][62] - BID target : 8.091624792878723E7 / 0.8143692357198784 / KRW-AQT
+[10:54:00.892][99] - PASS 1 prevAccTradePrice12Avg  KRW-AQT / 3.207735199396566E8
+[10:54:00.892][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-AQT / 0.32077351993965664
+[10:54:00.892][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-AQT / 1.6038675996982832E7
+[10:54:00.892][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-AQT / 8.091624792878723E7
+[10:54:00.893][128] - wideTrendAvg : 1.0432050274941085 / KRW-AQT
+[10:54:00.893][159] - wideTrendAvg2 : 1.069128857967582 / KRW-AQT
+[10:54:00.893][182] - BID crossAvg : 1.0237820618443456 / KRW-AQT
+[10:54:00.894][211] - trendAvg : 1.0010735373054214 / KRW-AQT
+[10:54:00.894][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.6212974580916362 / KRW-AQT
+[10:54:00.894][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : -0.4218212961694962 / KRW-AQT
+
+[11:04:42.488] KRW-AQT x
+[11:04:01.013][99] - PASS 1 prevAccTradePrice12Avg  KRW-AQT / 3.192619076460896E8
+[11:04:01.014][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-AQT / 0.31926190764608964
+[11:04:01.014][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-AQT / 1.5963095382304482E7
+[11:04:01.014][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-AQT / 1.0738821575253677E8
+[11:04:01.014][128] - wideTrendAvg : 1.0225489112412953 / KRW-AQT
+[11:04:01.014][159] - wideTrendAvg2 : 1.0541832280718868 / KRW-AQT
+[11:04:01.015][182] - BID crossAvg : 0.9954639851349875 / KRW-AQT
+[11:04:01.015][211] - trendAvg : 0.9907103825136612 / KRW-AQT
+[11:04:01.016][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.6163359617916432 / KRW-AQT
+[11:04:01.016][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : 0.24721380021323877 / KRW-AQT
+
+
+[11:18:26.951] KRW-AERGO x
+[11:18:01.091][62] - BID target : 6.851311001527023E7 / 0.7900090723349105 / KRW-AERGO
+[11:18:01.163][99] - PASS 1 prevAccTradePrice12Avg  KRW-AERGO / 1.764731407304612E8
+[11:18:01.163][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-AERGO / 0.17647314073046122
+[11:18:01.163][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-AERGO / 8823657.03652306
+[11:18:01.163][102] - PASS/ 1 targetVo.getAccTradePrice1min() KRW-AERGO / 6.851311001527023E7
+[11:18:01.163][128] - wideTrendAvg : 1.0170479067760032 / KRW-AERGO
+[11:18:01.164][159] - wideTrendAvg2 : 1.093030635908702 / KRW-AERGO
+[11:18:01.164][182] - BID crossAvg : 1.0088798544987698 / KRW-AERGO
+[11:18:01.165][211] - trendAvg : 1.0085197018104366 / KRW-AERGO
+[11:18:01.165][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:258] - BID_VAL_19 fastRate : -0.8311526324127405 / KRW-AERGO
+[11:18:01.165][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:269] - BID upRate : 1.8267318937607442 / KRW-AERGO
+
+
+
+[11:20:33.300] KRW-WET x
+[11:20:01.112][62] - BID target : 4.4874275326732635E7 / 0.7224397414617546 / KRW-WET
+[11:20:01.196][99] - PASS 1 prevAccTradePrice12Avg  KRW-WET / 4.695838950359908E7
+[11:20:01.196][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-WET / 0.04695838950359908
+[11:20:01.196][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-WET / 2347919.475179954
+[11:20:01.196][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-WET / 4.4874275326732635E7
+[11:20:01.197][128] - wideTrendAvg : 1.0122679045092837 / KRW-WET
+[11:20:01.197][159] - wideTrendAvg2 : 1.0075172413793105 / KRW-WET
+[11:20:01.197][182] - BID crossAvg : 1.0116987971659253 / KRW-WET
+[11:20:01.197][211] - trendAvg : 1.0065359477124183 / KRW-WET
+[11:20:01.198][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : 0.07354654914650213 / KRW-WET
+[11:20:01.198][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : 1.001408524739709 / KRW-WET
+
+[11:28:25.643] KRW-AERGO x
+[11:28:00.199][62] - BID target : 5.508841441576004E7 / 0.7850962081635435 / KRW-AERGO
+[11:28:00.284][99] - PASS 1 prevAccTradePrice12Avg  KRW-AERGO / 1.9658147045261976E8
+[11:28:00.284][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-AERGO / 0.19658147045261978
+[11:28:00.284][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-AERGO / 9829073.522630988
+[11:28:00.284][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-AERGO / 5.508841441576004E7
+[11:28:00.284][128] - wideTrendAvg : 1.014066358853216 / KRW-AERGO
+[11:28:00.284][159] - wideTrendAvg2 : 1.089615655425255 / KRW-AERGO
+[11:28:00.285][182] - BID crossAvg : 1.0089566561816923 / KRW-AERGO
+[11:28:00.285][211] - trendAvg : 0.9858342077649527 / KRW-AERGO
+[11:28:00.286][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.6373123429743868 / KRW-AERGO
+[11:28:00.286][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : -0.6815141497585053 / KRW-AERGO
+
+[12:49:18.633] KRW-AQT x
+[12:49:01.100][99] - PASS 1 prevAccTradePrice12Avg  KRW-AQT / 1.3350626699905996E8
+[12:49:01.100][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-AQT / 0.13350626699905996
+[12:49:01.100][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-AQT / 6675313.349952999
+[12:49:01.100][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-AQT / 1.0106138322056961E8
+[12:49:01.101][128] - wideTrendAvg : 1.0105144149236855 / KRW-AQT
+[12:49:01.101][159] - wideTrendAvg2 : 1.0002074306259796 / KRW-AQT
+[12:49:01.101][182] - BID crossAvg : 1.0113591632457966 / KRW-AQT
+[12:49:01.102][211] - trendAvg : 1.0061349693251533 / KRW-AQT
+[12:49:01.102][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:258] - BID_VAL_19 fastRate : -0.8793196897189759 / KRW-AQT
+[12:49:01.102][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:269] - BID upRate : 1.8522365919248447 / KRW-AQT
+
+[14:34:12.917] KRW-WET o
+[14:34:00.128][62] - BID target : 7.511720372052002E7 / 0.7344713672693335 / KRW-WET
+[14:34:00.208][99] - PASS 1 prevAccTradePrice12Avg  KRW-WET / 9.380903719636227E7
+[14:34:00.208][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-WET / 0.09380903719636227
+[14:34:00.209][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-WET / 4690451.859818114
+[14:34:00.209][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-WET / 7.511720372052002E7
+[14:34:00.209][128] - wideTrendAvg : 1.0057563159577871 / KRW-WET
+[14:34:00.209][159] - wideTrendAvg2 : 1.0189696349368818 / KRW-WET
+[14:34:00.210][182] - BID crossAvg : 1.0100446428571428 / KRW-WET
+[14:34:00.210][211] - trendAvg : 0.9952755905511811 / KRW-WET
+[14:34:00.210][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.4746233579994013 / KRW-WET
+[14:34:00.210][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : -0.09144853206435752 / KRW-WET
+
+[15:03:17.190] KRW-LINK x
+[15:03:02.449][62] - BID target : 1.2499061133625603E8 / 0.6091747770663565 / KRW-LINK
+[15:03:02.520][99] - PASS 1 prevAccTradePrice12Avg  KRW-LINK / 1.6658701850950196E8
+[15:03:02.521][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-LINK / 0.16658701850950197
+[15:03:02.521][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-LINK / 8329350.925475098
+[15:03:02.521][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-LINK / 1.2499061133625603E8
+[15:03:02.521][128] - wideTrendAvg : 1.0005261496369569 / KRW-LINK
+[15:03:02.521][159] - wideTrendAvg2 : 1.0039698730743358 / KRW-LINK
+[15:03:02.521][182] - BID crossAvg : 1.013492188732839 / KRW-LINK
+[15:03:02.522][211] - trendAvg : 1.0080771235018238 / KRW-LINK
+[15:03:02.522][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:258] - BID_VAL_19 fastRate : -0.8684907978375869 / KRW-LINK
+[15:03:02.522][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:269] - BID upRate : 3.1211230047093057 / KRW-LINK
+
+[15:04:32.116] KRW-WET o
+[15:04:00.458][62] - BID target : 4.3525298509384155E7 / 0.7340649150322177 / KRW-WET
+[15:04:00.538][99] - PASS 1 prevAccTradePrice12Avg  KRW-WET / 1.3088035006522767E8
+[15:04:00.539][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-WET / 0.1308803500652277
+[15:04:00.539][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-WET / 6544017.503261384
+[15:04:00.539][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-WET / 4.3525298509384155E7
+[15:04:00.540][128] - wideTrendAvg : 1.006677265500795 / KRW-WET
+[15:04:00.540][159] - wideTrendAvg2 : 1.0221798884201934 / KRW-WET
+[15:04:00.541][182] - BID crossAvg : 1.0038028838535888 / KRW-WET
+[15:04:00.541][211] - trendAvg : 1.0015797788309637 / KRW-WET
+[15:04:00.542][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:277] - BID_VAL_22 fastRate : -0.7176500938203576 / KRW-WET
+[15:04:00.542][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:288] - BID upRate : -0.07441765616017833 / KRW-WET
+
+
+[15:29:28.192] KRW-VIRTUAL x
+[15:29:01.781][99] - PASS 1 prevAccTradePrice12Avg  KRW-VIRTUAL / 2.2418530589398015E8
+[15:29:01.781][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-VIRTUAL / 0.22418530589398017
+[15:29:01.781][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-VIRTUAL / 1.1209265294699008E7
+[15:29:01.781][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-VIRTUAL / 1.149132395320425E8
+[15:29:01.782][128] - wideTrendAvg : 1.0517320591748598 / KRW-VIRTUAL
+[15:29:01.782][159] - wideTrendAvg2 : 1.018680022431497 / KRW-VIRTUAL
+[15:29:01.782][182] - BID crossAvg : 1.0231089614402795 / KRW-VIRTUAL
+[15:29:01.783][211] - trendAvg : 0.987385819921705 / KRW-VIRTUAL
+[15:29:01.783][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:277] - BID_VAL_22 fastRate : -0.746337972609056 / KRW-VIRTUAL
+[15:29:01.783][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:288] - BID upRate : 0.5272106614847694 / KRW-VIRTUAL
+
+---------------------12월 18일-----------------------------------
+[00:06:52.389] KRW-WET   o
+[00:06:02.310][62] - BID target : 8.148440750486326E7 / 0.3669168222672461 / KRW-WET
+[00:06:02.380][99] - PASS 1 prevAccTradePrice12Avg  KRW-WET / 7.34500782037311E7
+[00:06:02.380][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-WET / 0.0734500782037311
+[00:06:02.380][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-WET / 3672503.9101865552
+[00:06:02.380][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-WET / 8.148440750486326E7
+[00:06:02.381][128] - wideTrendAvg : 1.004211208292841 / KRW-WET
+[00:06:02.381][159] - wideTrendAvg2 : 1.0097427101200687 / KRW-WET
+[00:06:02.381][182] - BID crossAvg : 0.9988685954420559 / KRW-WET
+[00:06:02.381][211] - trendAvg : 0.9903381642512077 / KRW-WET
+[00:06:02.381][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : 1.0988323605213397 / KRW-WET
+[00:06:02.381][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : 0.03720380905723051 / KRW-WET
+
+
+[00:21:28.633] KRW-AERGO o
+[00:21:03.472][62] - BID target : 6.965477241683245E7 / 0.7005998740367023 / KRW-AERGO
+[00:21:03.549][99] - PASS 1 prevAccTradePrice12Avg  KRW-AERGO / 3.201964131616176E8
+[00:21:03.549][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-AERGO / 0.3201964131616176
+[00:21:03.549][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-AERGO / 1.600982065808088E7
+[00:21:03.549][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-AERGO / 6.965477241683245E7
+[00:21:03.550][128] - wideTrendAvg : 1.0258866461398106 / KRW-AERGO
+[00:21:03.550][159] - wideTrendAvg2 : 1.0178580129610681 / KRW-AERGO
+[00:21:03.550][182] - BID crossAvg : 1.001688713763017 / KRW-AERGO
+[00:21:03.550][211] - trendAvg : 0.9949551569506728 / KRW-AERGO
+[00:21:03.550][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:258] - BID_VAL_19 fastRate : -0.9118633082332818 / KRW-AERGO
+[00:21:03.550][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:269] - BID upRate : 0.1306797072701337 / KRW-AERGO
+
+
+
+[00:52:40.838] KRW-AERGO o
+[00:52:00.872][99] - PASS 1 prevAccTradePrice12Avg  KRW-AERGO / 1.5903786450141957E8
+[00:52:00.872][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-AERGO / 0.15903786450141957
+[00:52:00.872][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-AERGO / 7951893.225070979
+[00:52:00.872][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-AERGO / 8.224146279046059E7
+[00:52:00.872][128] - wideTrendAvg : 1.0117830146731879 / KRW-AERGO
+[00:52:00.872][159] - wideTrendAvg2 : 1.0336919661372561 / KRW-AERGO
+[00:52:00.873][182] - BID crossAvg : 1.0169632003536302 / KRW-AERGO
+[00:52:00.873][211] - trendAvg : 1.0070883315158126 / KRW-AERGO
+[00:52:00.873][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:258] - BID_VAL_19 fastRate : -0.9107196874502796 / KRW-AERGO
+[00:52:00.873][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:269] - BID upRate : 0.8142168384301249 / KRW-AERGO
+
+[01:12:36.363] KRW-AERGO o
+[01:12:01.082][99] - PASS 1 prevAccTradePrice12Avg  KRW-AERGO / 1.663083237925857E8
+[01:12:01.082][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-AERGO / 0.1663083237925857
+[01:12:01.082][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-AERGO / 8315416.189629286
+[01:12:01.082][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-AERGO / 4.3831639015013695E7
+[01:12:01.082][128] - wideTrendAvg : 1.0288985217294657 / KRW-AERGO
+[01:12:01.082][182] - BID crossAvg : 1.022515613016325 / KRW-AERGO
+[01:12:01.083][211] - trendAvg : 1.0037573805689748 / KRW-AERGO
+[01:12:01.083][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.44611391493121355 / KRW-AERGO
+[01:12:01.083][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : -0.10123355779678662 / KRW-AERGO
+
+
+[03:17:55.488] KRW-SAHARA o
+[03:17:01.254][62] - BID target : 8.543286256210804E7 / 0.7640322166091781 / KRW-SAHARA
+[03:17:01.325][99] - PASS 1 prevAccTradePrice12Avg  KRW-SAHARA / 4.593305963738558E7
+[03:17:01.325][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-SAHARA / 0.04593305963738558
+[03:17:01.325][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-SAHARA / 2296652.981869279
+[03:17:01.325][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-SAHARA / 8.543286256210804E7
+[03:17:01.325][128] - wideTrendAvg : 1.0056874381800196 / KRW-SAHARA
+[03:17:01.325][159] - wideTrendAvg2 : 1.028980092864386 / KRW-SAHARA
+[03:17:01.326][182] - BID crossAvg : 1.0072740722475648 / KRW-SAHARA
+[03:17:01.326][211] - trendAvg : 1.0024509803921569 / KRW-SAHARA
+[03:17:01.326][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.4084239679074818 / KRW-SAHARA
+[03:17:01.326][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : 0.12253635799918117 / KRW-SAHARA
+
+[03:39:48.841] KRW-SAHARA o
+[03:39:01.457][62] - BID target : 3.2504308528025436E8 / 0.7949037724450915 / KRW-SAHARA
+[03:39:01.521][99] - PASS 1 prevAccTradePrice12Avg  KRW-SAHARA / 1.575062363267546E8
+[03:39:01.521][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-SAHARA / 0.15750623632675462
+[03:39:01.521][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-SAHARA / 7875311.816337731
+[03:39:01.521][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-SAHARA / 3.2504308528025436E8
+[03:39:01.522][128] - wideTrendAvg : 1.01871921182266 / KRW-SAHARA
+[03:39:01.522][159] - wideTrendAvg2 : 1.0315806262959224 / KRW-SAHARA
+[03:39:01.522][182] - BID crossAvg : 1.0181795998047827 / KRW-SAHARA
+[03:39:01.522][211] - trendAvg : 0.994026284348865 / KRW-SAHARA
+[03:39:01.522][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.4822601979231061 / KRW-SAHARA
+[03:39:01.522][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : -0.13298621779261882 / KRW-SAHARA
+
+[04:19:54.177] KRW-SAHARA x
+[04:19:00.862][62] - BID target : 2.1240663809043312E8 / 0.7952329370962026 / KRW-SAHARA
+[04:19:00.941][99] - PASS 1 prevAccTradePrice12Avg  KRW-SAHARA / 4.581051835203059E8
+[04:19:00.942][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-SAHARA / 0.4581051835203059
+[04:19:00.942][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-SAHARA / 2.2905259176015295E7
+[04:19:00.942][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-SAHARA / 2.1240663809043312E8
+[04:19:00.942][128] - wideTrendAvg : 1.0278110764804602 / KRW-SAHARA
+[04:19:00.942][159] - wideTrendAvg2 : 1.0463369478973819 / KRW-SAHARA
+[04:19:00.942][182] - BID crossAvg : 1.0002364625206905 / KRW-SAHARA
+[04:19:00.942][211] - trendAvg : 1.0071174377224201 / KRW-SAHARA
+[04:19:00.942][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.6854503487077762 / KRW-SAHARA
+[04:19:00.942][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : 0.44718102149148864 / KRW-SAHARA
+
+[04:47:40.837] KRW-AERGO x
+[04:47:00.228][99] - PASS 1 prevAccTradePrice12Avg  KRW-AERGO / 1.2166826755594508E8
+[04:47:00.228][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-AERGO / 0.12166826755594509
+[04:47:00.228][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-AERGO / 6083413.377797254
+[04:47:00.228][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-AERGO / 8.167731334004974E7
+[04:47:00.228][128] - wideTrendAvg : 1.0157745293932063 / KRW-AERGO
+[04:47:00.228][159] - wideTrendAvg2 : 1.0291564363381267 / KRW-AERGO
+[04:47:00.228][182] - BID crossAvg : 1.0134077629382303 / KRW-AERGO
+[04:47:00.228][211] - trendAvg : 1.0077519379844961 / KRW-AERGO
+[04:47:00.228][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:258] - BID_VAL_19 fastRate : -0.8058028576410123 / KRW-AERGO
+[04:47:00.228][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:269] - BID upRate : 1.1360109948849066 / KRW-AERGO
+
+
+[05:07:34.593] KRW-MMT x
+[05:07:01.342][62] - BID target : 6.943106201318169E7 / 0.7715098941056957 / KRW-MMT
+[05:07:01.423][99] - PASS 1 prevAccTradePrice12Avg  KRW-MMT / 5.920146878197697E7
+[05:07:01.423][100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-MMT / 0.05920146878197697
+[05:07:01.423][101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-MMT / 2960073.4390988485
+[05:07:01.423][102] - PASS 1 targetVo.getAccTradePrice1min() KRW-MMT / 6.943106201318169E7
+[05:07:01.423][128] - wideTrendAvg : 1.016450822541127 / KRW-MMT
+[05:07:01.423][159] - wideTrendAvg2 : 1.0448337063044986 / KRW-MMT
+[05:07:01.424][182] - BID crossAvg : 1.01024127755598 / KRW-MMT
+[05:07:01.424][211] - trendAvg : 1.0034423407917383 / KRW-MMT
+[05:07:01.424][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:258] - BID_VAL_19 fastRate : -0.8679051350568 / KRW-MMT
+[05:07:01.424][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:269] - BID upRate : 2.3539631022400975 / KRW-MMT
+
+
+[06:35:51.499] KRW-GRS x
+6:35:00.354][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-GRS / 2.3346744653776947E8
+[06:35:00.355][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-GRS / 0.2334674465377695
+[06:35:00.355][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-GRS / 1.1673372326888474E7
+[06:35:00.355][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:102] - PASS 1 targetVo.getAccTradePrice1min() KRW-GRS / 8.602681443564987E7
+[06:35:00.355][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.0227272727272727 / KRW-GRS
+[06:35:00.355][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:159] - wideTrendAvg2 : 1.0021121631463947 / KRW-GRS
+[06:35:00.355][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.00187265917603 / KRW-GRS
+[06:35:00.355][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 1.0051107325383304 / KRW-GRS
+[06:35:00.355][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:216] - BID PASS 3 checkBidVal BID TREND AVG : KRW-GRS
+[06:35:00.355][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.6956586405732725 / KRW-GRS
+[06:35:00.355][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : -0.21215004578338717 / KRW-GRS
+
+[06:36:07.216] KRW-BARD o 
+[06:36:00.352][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-BARD / 1.0836435496392874E8
+[06:36:00.352][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-BARD / 0.10836435496392875
+[06:36:00.353][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-BARD / 5418217.748196438
+[06:36:00.353][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:102] - PASS 1 targetVo.getAccTradePrice1min() KRW-BARD / 5.845259869817734E7
+[06:36:00.353][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.0248178688655831 / KRW-BARD
+[06:36:00.353][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:159] - wideTrendAvg2 : 1.022448079272431 / KRW-BARD
+[06:36:00.353][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.0169223469871898 / KRW-BARD
+[06:36:00.353][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 0.9976699029126214 / KRW-BARD
+[06:36:00.353][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.46655910540377027 / KRW-BARD
+[06:36:00.353][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : -0.4020144023810977 / KRW-BARD
+
+[07:26:29.008] KRW-BARD x
+[07:26:00.887][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-BARD / 1.1092097280045432E8
+[07:26:00.887][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-BARD / 0.11092097280045432
+[07:26:00.888][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-BARD / 5546048.6400227165
+[07:26:00.888][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:102] - PASS 1 targetVo.getAccTradePrice1min() KRW-BARD / 9.36540231710968E7
+[07:26:00.888][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.0132378134247002 / KRW-BARD
+[07:26:00.888][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:159] - wideTrendAvg2 : 1.0273592520347077 / KRW-BARD
+[07:26:00.888][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.009128181325907 / KRW-BARD
+[07:26:00.888][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 1.0030710172744721 / KRW-BARD
+[07:26:00.888][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:258] - BID_VAL_19 fastRate : -0.870671421187264 / KRW-BARD
+[07:26:00.888][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:269] - BID upRate : 3.2410084216146 / KRW-BARD
+
+[08:41:55.549] KRW-BARD o
+[08:41:01.661][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-BARD / 1.0395160149816054E8
+[08:41:01.661][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-BARD / 0.10395160149816055
+[08:41:01.661][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-BARD / 5197580.074908027
+[08:41:01.661][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:102] - PASS 1 targetVo.getAccTradePrice1min() KRW-BARD / 4.191041630327606E7
+[08:41:01.661][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.0126109294722092 / KRW-BARD
+[08:41:01.661][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:159] - wideTrendAvg2 : 1.0358459408516956 / KRW-BARD
+[08:41:01.661][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.000812253423068 / KRW-BARD
+[08:41:01.662][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 0.9919168591224018 / KRW-BARD
+[08:41:01.662][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.6129497946168554 / KRW-BARD
+[08:41:01.662][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : -0.2533240085548969 / KRW-BARD
+
+[09:52:49.057] KRW-UNI o
+[09:52:00.395][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-UNI / 6.466374748706833E7
+[09:52:00.395][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-UNI / 0.06466374748706834
+[09:52:00.395][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-UNI / 3233187.3743534167
+[09:52:00.395][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:102] - PASS 1 targetVo.getAccTradePrice1min() KRW-UNI / 4.158218506269646E7
+[09:52:00.396][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.0034217832009813 / KRW-UNI
+[09:52:00.396][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:159] - wideTrendAvg2 : 1.0409290932653554 / KRW-UNI
+[09:52:00.396][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.0060906835100383 / KRW-UNI
+[09:52:00.396][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 1.0077170418006431 / KRW-UNI
+[09:52:00.396][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.523461468030801 / KRW-UNI
+[09:52:00.396][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : -0.09260407422897557 / KRW-UNI
+
+[12:16:16.469] KRW-SAHARA x..애매
+[12:16:01.842][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-SAHARA / 5.348639604724059E7
+[12:16:01.842][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-SAHARA / 0.0534863960472406
+[12:16:01.842][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-SAHARA / 2674319.80236203
+[12:16:01.842][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:102] - PASS 1 targetVo.getAccTradePrice1min() KRW-SAHARA / 6.420869168394852E7
+[12:16:01.842][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.0118358096197433 / KRW-SAHARA
+[12:16:01.843][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:159] - wideTrendAvg2 : 1.012638896203065 / KRW-SAHARA
+[12:16:01.843][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.0076354988108647 / KRW-SAHARA
+[12:16:01.843][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 0.9975186104218363 / KRW-SAHARA
+[12:16:01.843][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:258] - BID_VAL_19 fastRate : -0.8766334165895445 / KRW-SAHARA
+[12:16:01.843][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:269] - BID upRate : 0.7699256121861927 / KRW-SAHARA
+
+
+[12:18:27.363] KRW-AERGO x..애매
+[12:18:00.865][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-AERGO / 2.1227082376631728E8
+[12:18:00.865][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-AERGO / 0.21227082376631728
+[12:18:00.865][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-AERGO / 1.0613541188315865E7
+[12:18:00.865][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:102] - PASS 1 targetVo.getAccTradePrice1min() KRW-AERGO / 3.6500977444767E7
+[12:18:00.865][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.0363101079489694 / KRW-AERGO
+[12:18:00.866][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:159] - wideTrendAvg2 : 1.0446001367053999 / KRW-AERGO
+[12:18:00.866][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.0240963855421688 / KRW-AERGO
+[12:18:00.866][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 0.9953051643192489 / KRW-AERGO
+[12:18:00.866][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:258] - BID_VAL_19 fastRate : -0.8682940928152388 / KRW-AERGO
+[12:18:00.866][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:269] - BID upRate : 0.631570400907248 / KRW-AERGO
+
+[12:41:32.758] KRW-BARD o
+[12:41:01.109][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-BARD / 7.207305913678086E7
+[12:41:01.109][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-BARD / 0.07207305913678086
+[12:41:01.109][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-BARD / 3603652.956839043
+[12:41:01.110][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:102] - PASS 1 targetVo.getAccTradePrice1min() KRW-BARD / 7.233551210949516E7
+[12:41:01.110][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.0078113034155307 / KRW-BARD
+[12:41:01.110][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:159] - wideTrendAvg2 : 1.0044299445057492 / KRW-BARD
+[12:41:01.110][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.0048440003051338 / KRW-BARD
+[12:41:01.110][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 1.0087685855890203 / KRW-BARD
+[12:41:01.110][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:258] - BID_VAL_19 fastRate : -0.8989662691369787 / KRW-BARD
+[12:41:01.110][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:269] - BID upRate : 22.243090636839913 / KRW-BARD
+
+[13:18:19.709] KRW-BARD o
+[13:18:04.543][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-BARD / 2.218733769688275E8
+[13:18:04.543][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-BARD / 0.2218733769688275
+[13:18:04.543][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-BARD / 1.1093668848441375E7
+[13:18:04.543][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:102] - PASS 1 targetVo.getAccTradePrice1min() KRW-BARD / 6.1392722927539825E7
+[13:18:04.543][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.0302800908402725 / KRW-BARD
+[13:18:04.544][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:159] - wideTrendAvg2 : 1.0115689027893024 / KRW-BARD
+[13:18:04.544][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.023676360924683 / KRW-BARD
+[13:18:04.544][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 1.003283473184969 / KRW-BARD
+[13:18:04.544][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:258] - BID_VAL_19 fastRate : -0.8382057395362996 / KRW-BARD
+[13:18:04.544][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:269] - BID upRate : 0.8468301710991115 / KRW-BARD
+
+[13:57:56.059] KRW-BARD o
+[13:57:01.394][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-BARD / 1.6353794663478222E8
+[13:57:01.394][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-BARD / 0.16353794663478224
+[13:57:01.394][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-BARD / 8176897.331739112
+[13:57:01.395][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:102] - PASS 1 targetVo.getAccTradePrice1min() KRW-BARD / 4.1197305134895325E7
+[13:57:01.396][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.012763474582452 / KRW-BARD
+[13:57:01.396][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:159] - wideTrendAvg2 : 1.0472830569046092 / KRW-BARD
+[13:57:01.397][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.0129724245388991 / KRW-BARD
+[13:57:01.399][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 1.0032246506628448 / KRW-BARD
+[13:57:01.400][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.6144736446875692 / KRW-BARD
+[13:57:01.400][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : -0.3693667576359944 / KRW-BARD
+
+[14:15:14.996] KRW-BARD o 
+[14:15:00.604][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-BARD / 3.0706565280348325E8
+[14:15:00.604][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-BARD / 0.30706565280348325
+[14:15:00.604][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-BARD / 1.5353282640174164E7
+[14:15:00.604][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:102] - PASS 1 targetVo.getAccTradePrice1min() KRW-BARD / 1.1944462435408783E8
+[14:15:00.604][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.0268232564883282 / KRW-BARD
+[14:15:00.604][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:159] - wideTrendAvg2 : 1.0554393622503107 / KRW-BARD
+[14:15:00.604][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.0233206953287073 / KRW-BARD
+[14:15:00.604][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 1.0020993701889434 / KRW-BARD
+[14:15:00.605][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:277] - BID_VAL_22 fastRate : -0.7206862145116564 / KRW-BARD
+[14:15:00.605][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:288] - BID upRate : 1.5008999309133817 / KRW-BARD
+
+
+[14:20:34.633] KRW-BARD x
+[14:20:00.659][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-BARD / 3.6862385563538224E8
+[14:20:00.659][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-BARD / 0.36862385563538225
+[14:20:00.659][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-BARD / 1.843119278176911E7
+[14:20:00.659][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:102] - PASS 1 targetVo.getAccTradePrice1min() KRW-BARD / 2.094189051787529E8
+[14:20:00.659][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.030557566980449 / KRW-BARD
+[14:20:00.660][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:159] - wideTrendAvg2 : 1.05589498517936 / KRW-BARD
+[14:20:00.660][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.0256044504671564 / KRW-BARD
+[14:20:00.660][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 1.0154169586545199 / KRW-BARD
+[14:20:00.660][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.3014641731690463 / KRW-BARD
+[14:20:00.660][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : 0.8639451571003705 / KRW-BARD
+
+
+[14:37:30.703] KRW-BARD x
+[14:37:01.546][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-BARD / 5.257483501152272E8
+[14:37:01.546][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-BARD / 0.5257483501152272
+[14:37:01.547][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-BARD / 2.6287417505761363E7
+[14:37:01.547][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:102] - PASS 1 targetVo.getAccTradePrice1min() KRW-BARD / 1.2929758470001984E8
+[14:37:01.547][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.0311431014823262 / KRW-BARD
+[14:37:01.548][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:159] - wideTrendAvg2 : 1.0573750896485776 / KRW-BARD
+[14:37:01.548][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.0147012385530332 / KRW-BARD
+[14:37:01.549][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 0.9986178299930891 / KRW-BARD
+[14:37:01.550][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.6900095765097516 / KRW-BARD
+[14:37:01.550][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : 0.421522665751869 / KRW-BARD
+
+[15:22:45.111] KRW-DOOD x
+[15:22:02.062][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-DOOD / 5.8870172802075624E7
+[15:22:02.062][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-DOOD / 0.058870172802075627
+[15:22:02.062][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-DOOD / 2943508.6401037816
+[15:22:02.062][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:102] - PASS 1 targetVo.getAccTradePrice1min() KRW-DOOD / 4.61461775068512E7
+[15:22:02.062][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.0108298856169384 / KRW-DOOD
+[15:22:02.063][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:159] - wideTrendAvg2 : 1.0233770101250745 / KRW-DOOD
+[15:22:02.063][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.0024205748865356 / KRW-DOOD
+[15:22:02.063][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 1.007878787878788 / KRW-DOOD
+[15:22:02.063][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:258] - BID_VAL_19 fastRate : -0.9723079947422109 / KRW-DOOD
+[15:22:02.063][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:269] - BID upRate : 23.505226915296028 / KRW-DOOD
+
+
+[21:29:18.021] KRW-WET x
+[21:29:01.102][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-WET / 6.807970135007848E7
+[21:29:01.102][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-WET / 0.06807970135007849
+[21:29:01.102][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-WET / 3403985.067503924
+[21:29:01.102][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:102] - PASS 1 targetVo.getAccTradePrice1min() KRW-WET / 5.054526303851318E7
+[21:29:01.102][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.008433734939759 / KRW-WET
+[21:29:01.102][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:159] - wideTrendAvg2 : 1.0036218761318363 / KRW-WET
+[21:29:01.102][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.0145470905818836 / KRW-WET
+[21:29:01.102][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 1.0044444444444445 / KRW-WET
+[21:29:01.103][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:220] - BID_VAL_7 fastRate : -0.1856112823218803 / KRW-WET
+[21:29:01.103][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:231] - BID upRate : 1.7383693818127444 / KRW-WET
+
+
+-----
+[00:19:29.983] KRW-WET x
+[00:19:00.522][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-WET / 5.421309847066771E8
+[00:19:00.522][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-WET / 0.5421309847066771
+[00:19:00.522][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-WET / 2.710654923533385
+[00:19:00.522][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.0233227756982435 / KRW-WET
+[00:19:00.522][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:159] - wideTrendAvg2 : 1.0379912145316397 / KRW-WET
+[00:19:00.522][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.0203500782695318 / KRW-WET
+[00:19:00.522][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 0.9944367176634215 / KRW-WET
+[00:19:00.523][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:239] - BID_VAL_16 fastRate : -0.6987807412688681 / KRW-WET
+[00:19:00.523][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:250] - BID upRate : -0.1398787026206276 / KRW-WET
+
+[00:35:13.350] KRW-DOOD o
+[00:35:01.723][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-DOOD / 1.0433935612033637E8
+[00:35:01.724][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-DOOD / 0.10433935612033637
+[00:35:01.724][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-DOOD / 5216967.806016819
+[00:35:01.724][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:102] - PASS 1 targetVo.getAccTradePrice1min() KRW-DOOD / 4.9332050625784874E7
+[00:35:01.725][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.0256027839920454 / KRW-DOOD
+[00:35:01.725][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.0142348754448403 / KRW-DOOD
+[00:35:01.726][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 1.0012106537530263 / KRW-DOOD
+[00:35:01.726][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:258] - BID_VAL_19 fastRate : -0.72680063298686 / KRW-DOOD
+[00:35:01.726][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:269] - BID upRate : 0.40777703865246595 / KRW-DOOD
+
+[00:42:17.327] KRW-SXP x
+[00:42:01.801][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-SXP / 4.626133542269843E8
+[00:42:01.801][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-SXP / 0.46261335422698435
+[00:42:01.801][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-SXP / 2.313066771134922E7
+[00:42:01.801][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:102] - PASS 1 targetVo.getAccTradePrice1min() KRW-SXP / 3.6510402462332535E8
+[00:42:01.801][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.0267909143855563 / KRW-SXP
+[00:42:01.801][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:159] - wideTrendAvg2 : 1.0410568516640104 / KRW-SXP
+[00:42:01.801][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.029022988505747 / KRW-SXP
+[00:42:01.801][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 0.9983258928571429 / KRW-SXP
+[00:42:01.802][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:258] - BID_VAL_19 fastRate : -0.8596847575952186 / KRW-SXP
+[00:42:01.802][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:269] - BID upRate : 1.2890368835512682 / KRW-SXP
+
+[01:03:45.825] KRW-HOLO o
+[01:03:03.057][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:99] - PASS 1 prevAccTradePrice12Avg  KRW-HOLO / 9.373317538551114E7
+[01:03:03.058][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:100] - PASS 1 prevAccTradePrice12Avg * bidVal12 1  KRW-HOLO / 0.09373317538551115
+[01:03:03.058][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:101] - PASS 1 prevAccTradePrice12Avg * bidVal12 2  KRW-HOLO / 4686658.769275557
+[01:03:03.058][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:102] - PASS 1 targetVo.getAccTradePrice1min() KRW-HOLO / 9.577817143445921E7
+[01:03:03.058][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:128] - wideTrendAvg : 1.0240509059534082 / KRW-HOLO
+[01:03:03.058][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:159] - wideTrendAvg2 : 1.0236642226807746 / KRW-HOLO
+[01:03:03.058][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:182] - BID crossAvg : 1.0092183087334152 / KRW-HOLO
+[01:03:03.058][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:211] - trendAvg : 1.0042328042328044 / KRW-HOLO
+[01:03:03.059][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:258] - BID_VAL_19 fastRate : -0.9456267968656412 / KRW-HOLO
+[01:03:03.059][INFO ][net.jaeum.acApp.service.impl.BidMonitoringServiceImpl.connect:269] - BID upRate : 1.9040972981443485 / KRW-HOLO
